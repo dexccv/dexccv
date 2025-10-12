@@ -1,61 +1,62 @@
-# Halo, my name is xyra
+# Hello, I'm Xyra / Dex
 
-Saya seorang pemilik online shop yang juga aktif belajar dunia teknologi. Saat ini saya banyak berfokus pada pengembangan web, pembuatan game sederhana, dan membangun proyek-proyek kecil untuk memperdalam skill pemrograman.
-
----
-
-## Tentang Saya
-- Sedang mendalami **Frontend dan Backend Web Development**  
-- Tertarik dengan **Game Development** berbasis Python dan JavaScript  
-- Pernah membuat proyek berupa **Web E-Commerce, game idle, dan sistem login**  
-- Aktif mempelajari **HTML CSS,React, Node.js, dan integrasi API**  
-- Selain coding, saya juga menjalankan **online shop** yang terus berkembang  
+I’m an online shop owner who’s also passionate about technology.  
+Currently, I focus on web development, simple game creation, and small coding projects to sharpen my programming skills.
 
 ---
 
-## Keahlian Teknis
-**Bahasa Pemrograman**
-- HTML & CSS
+## About Me
+- Learning **Frontend and Backend Web Development**  
+- Interested in **Game Development** using Python and JavaScript  
+- Built several projects such as **E-Commerce Website, Idle Game, and Login System**  
+- Actively learning **HTML, CSS, React, Node.js, and API integration**  
+- Besides coding, I also run a growing **online shop business**
+
+---
+
+## Technical Skills
+**Programming Languages**
+- HTML & CSS  
 - Python  
 - JavaScript  
 - C++  
 
-**Framework & Tools**
+**Frameworks & Tools**
 - React  
 - Node.js  
 - Bootstrap, Tailwind CSS  
 - Git & GitHub  
 - Visual Studio Code  
 
-**Bidang yang Diminati**
+**Areas of Interest**
 - Web Development (Frontend & Backend)  
 - Game Development  
-- Dashboard & Sistem Manajemen Data  
+- Dashboard & Data Management Systems  
 
 ---
 
-## Statistik GitHub
+## GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimas123&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimas123&layout=compact&theme=radical)  
 
 ---
 
-## Proyek Pilihan
-- **Modifikasi Bot Whatsapp** → Dibuat dengan HTML, CSS, JavaScript  
-- **Game Idle Tambang** → Idle clicker sederhana dengan sistem shop  
-- **Sistem Login & Admin Dashboard** → Menggunakan React dan Tailwind  
-- **Tool Multitool Python** → Utility seperti OSINT sederhana  
+## Featured Projects
+- **WhatsApp Bot Modification** → Built with HTML, CSS, JavaScript  
+- **Idle Mining Game** → Simple idle clicker with shop system  
+- **Login System & Admin Dashboard** → Built using React and Tailwind  
+- **Python Multitool Utility** → Basic OSINT-style tool  
 
 ---
 
-## Rencana Belajar
-- Mendalami Pembuatan Bot whatsapp untuk pengembangan aplikasi skala besar  
-- Mempelajari Next.js untuk web modern  
-- Menguasai integrasi API dan pengolahan data realtime  
-- Membuat project open source yang bisa digunakan orang lain  
+## Learning Goals
+- Deepen knowledge in building WhatsApp bots for large-scale apps  
+- Learn Next.js for modern web development  
+- Master API integration and real-time data processing  
+- Create open-source projects that others can use  
 
 ---
 
-## Hubungi Saya
+## Contact Me
 - Email: Dexstore_id@gmail.com  
-- Instagram: @0fbynsh_ 
+- Instagram: @0fbynsh_
