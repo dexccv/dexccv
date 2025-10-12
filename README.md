@@ -1,4 +1,4 @@
-# Halo, saya Dimas
+# Halo, my name is xyra
 
 Saya seorang pemilik online shop yang juga aktif belajar dunia teknologi. Saat ini saya banyak berfokus pada pengembangan web, pembuatan game sederhana, dan membangun proyek-proyek kecil untuk memperdalam skill pemrograman.
 
